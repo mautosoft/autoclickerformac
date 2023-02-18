@@ -56,4 +56,5 @@ pip3 install tk
 ```
 sudo python3 maxac.py
 ```
+That's it! You should now be able to use the Max Auto Clicker on your Mac OS system. If you encounter any issues, feel free to refer to the ISSUES section in the GitHub repository or seek help from the open-source community.
 
